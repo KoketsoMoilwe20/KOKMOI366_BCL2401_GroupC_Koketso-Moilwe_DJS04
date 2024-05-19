@@ -1,4 +1,5 @@
 import { books, authors, genres, BOOKS_PER_PAGE } from "./data.js";
+import './themeapplication.js'
 
 // Initialize page number and matches array
 let page = 1;
